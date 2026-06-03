@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Manjitha! 👋</h1>
-<h3 align="center">A passionate undergraduate developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate undergraduate developer & cybersecurity enthusiast from Sri Lanka 🇱🇰</h3>
 
 <div align="center">
   <a href="https://instagram.com/mjsayuru"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
@@ -10,15 +10,27 @@
 <br>
 
 ## 💫 About Me
-- 🔭 I’m currently an undergraduate at **South Eastern University of Sri Lanka (SEUSL)**.
-- 🌱 I’m currently mastering **Java** as my main language and building projects with **Laravel**.
-- ☁️ Actively exploring **Distributed Systems, Cloud Computing**, and Embedded Systems.
-- 👯 I’m looking to collaborate with others to learn, grow, and build cool things.
-- ⚡ **Fun fact:** When I'm not coding, you can usually find me reading, watching anime, or experimenting with AI image generation!
+- 🔭 I'm currently an undergraduate at **South Eastern University of Sri Lanka (SEUSL)**, majoring in **Network Engineering**.
+- 🛡️ Specializing in **Cybersecurity**, **Network Administration**, and **Penetration Testing**.
+- 🔍 Actively mastering **Kali Linux**, **OpenVAS**, **Nmap**, and **Nessus** for vulnerability assessment and network reconnaissance.
+- 💻 Proficient in **Java**, **Python**, **PHP**, and **Laravel** for full-stack development.
+- 👯 I'm looking to collaborate with others to learn, grow, and build secure, robust systems.
+- ⚡ **Fun fact:** When I'm not analyzing network vulnerabilities or coding, you can usually find me reading, watching anime, or experimenting with AI image generation!
 
 ---
 
 ## 💻 Tech Stack
+
+### 🛡️ Cybersecurity & Network Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Nmap-%237952B3.svg?style=for-the-badge&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/OpenVAS-%23FF6B35.svg?style=for-the-badge&logoColor=white" alt="OpenVAS"/>
+  <img src="https://img.shields.io/badge/Nessus-%23009FDF.svg?style=for-the-badge&logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-%23000000.svg?style=for-the-badge&logo=security&logoColor=white" alt="Penetration Testing"/>
+</div>
+
+### 💻 Programming Languages & Frameworks
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
