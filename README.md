@@ -46,24 +46,28 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjithasbandara-prog&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=manjithasbandara-prog&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjithasbandara-prog&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=manjithasbandara-prog&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjithasbandara-prog&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjithasbandara-prog&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manjithasbandara-prog&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=manjithasbandara-prog&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 ### ✍️ Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
